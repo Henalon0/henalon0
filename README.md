@@ -24,8 +24,7 @@ Driven by a commitment to excellence, I've spearheaded projects optimizing forec
 
 ### Connect with Me:
 
-- 📧 mustafakel.2001@gmail.com
-- 📱 [LinkedIn Profile](https://www.linkedin.com/in/mustafakel/)
+- 📱  [LinkedIn Profile](https://www.linkedin.com/in/mustafakel/)
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/mustafakel)
 
 Feel free to explore my projects, provide feedback, or reach out for discussions and collaborations. Let's connect, code, and create something extraordinary together! 🚀
