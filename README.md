@@ -1,4 +1,4 @@
-# [Henalon0]
+# Henalon0
 
 ## AI Engineer | Machine Learning Specialist
 
