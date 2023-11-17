@@ -1,5 +1,3 @@
-# Henalon0
-
 ## AI Engineer | Machine Learning Specialist
 
 🚀 Hello, fellow tech enthusiasts! I'm [Your Name], an AI Engineer and Machine Learning Specialist with a knack for turning ideas into code. This GitHub repository serves as a digital portfolio showcasing my passion for cutting-edge technology and problem-solving. Dive into the projects below to explore my skills in:
