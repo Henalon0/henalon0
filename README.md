@@ -1,3 +1,5 @@
+<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+
 ## AI Engineer | Machine Learning Specialist
 
 🚀 Hello, fellow tech enthusiasts! I'm Mustafa, an AI Engineer and Machine Learning Specialist with a knack for turning ideas into code. This GitHub repository serves as a digital portfolio showcasing my passion for cutting-edge technology and problem-solving. Dive into the projects below to explore my skills in:
