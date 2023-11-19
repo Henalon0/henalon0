@@ -11,6 +11,7 @@ Hello! I'm Mustafa, an AI Engineer and Machine Learning Specialist. I love turni
 *   **Django and Flask:** Building robust web applications and backends with a focus on seamless user experiences.
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
@@ -39,5 +40,7 @@ Hello! I'm Mustafa, an AI Engineer and Machine Learning Specialist. I love turni
 
 ## 🤝🏻 Connect with Me
 
-*   [LinkedIn Profile](https://www.linkedin.com/in/mustafakel/)
-*   [Upwork Profile](https://www.upwork.com/freelancers/mustafakel)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafakel/"><img width="100px" height="25px" src="https://img.shields.io/badge/Mustafa_Kel-0077B5?logo=linkedin"/></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/mustafakel"><img width="100px" height="25px" src="https://img.shields.io/badge/Mustafa_Kel-4fab4a?logo=upwork&logoColor=white"/></a>
+</p>
