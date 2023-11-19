@@ -34,7 +34,7 @@ Hello! I'm Mustafa, an AI Engineer and Machine Learning Specialist. I love turni
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/henalon0">
+<a href="https://github.com/henalon0" width="100vw">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&layout=compact&langs_count=8&theme=algolia"/>
 </a>
