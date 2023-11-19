@@ -1,4 +1,4 @@
-![](assets/img/header.png)
+![](assets/header.png)
 
 ## 👨🏻‍💻 About Me
 
