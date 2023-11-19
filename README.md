@@ -41,6 +41,6 @@ Hi, I'm Mustafa, an AI Engineer and Machine Learning Specialist. I'm passionate 
 ## 🤝🏻 Connect with Me
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mustafakel/"><img width="100px" height="25px" src="https://img.shields.io/badge/Mustafa_Kel-0077B5?logo=linkedin"/></a>&nbsp;
-  <a target="_blank" href="https://www.upwork.com/freelancers/mustafakel"><img width="100px" height="25px" src="https://img.shields.io/badge/Mustafa_Kel-4fab4a?logo=upwork&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mustafakel/"><img width="100px" height="25px" src="https://img.shields.io/badge/Mustafa_Kel-0077B5?logo=linkedin"/></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/mustafakel"><img width="100px" height="25px" src="https://img.shields.io/badge/Mustafa_Kel-4fab4a?logo=upwork&logoColor=white"/></a>
 </p>
