@@ -1,39 +1,46 @@
-## AI Engineer | Machine Learning Specialist
+![](assets/img/header.png)
 
-🚀 Hello, fellow tech enthusiasts! I'm Mustafa, an AI Engineer and Machine Learning Specialist with a knack for turning ideas into code. This GitHub repository serves as a digital portfolio showcasing my passion for cutting-edge technology and problem-solving. Dive into the repository below to explore my skills in:
+## 👨🏻‍💻 About Me
 
-### Expertise
+Hello! I'm Mustafa, an AI Engineer and Machine Learning Specialist. I love turning ideas into code. My journey in tech started with a passion for programming languages, and now I specialize in artificial intelligence and machine learning.
 
-- 🤖 **Machine Learning:** Crafting solutions using advanced ML techniques for predictive modeling, deep learning, and more.
+## 🤖 Expertise
 
-- 🌐 **Web Scraping and Automation:** Unleashing the power of web scraping, crawling, and data extraction to transform unstructured content into valuable insights.
+*   Machine Learning: Crafting solutions using advanced ML techniques for predictive modeling, deep learning, and more.
+*   Web Scraping and Automation: Unleashing the power of web scraping, crawling, and data extraction to transform unstructured content into valuable insights.
+*   Django and Flask: Building robust web applications and backends with a focus on seamless user experiences.
 
-- 🌟 **Django and Flask:** Building robust web applications and backends with a focus on seamless user experiences.
+## 🛠 Tech Stack
 
-### Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
-<img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" alt="DigitalOcean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
 <br>
-<hr>
+<br>
 
-### Connect with Me
+## ⚙️ GitHub Analytics
 
-- 📱  [LinkedIn Profile](https://www.linkedin.com/in/mustafakel/)
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/mustafakel)
+<p align="center">
+<a href="https://github.com/henalon0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-Feel free to explore my projects, provide feedback, or reach out for discussions and collaborations. Let's connect, code, and create something extraordinary together! 🚀
+## 🤝🏻 Connect with Me
+
+*   [LinkedIn Profile](https://www.linkedin.com/in/mustafakel/)
+*   [Upwork Profile](https://www.upwork.com/freelancers/mustafakel)
