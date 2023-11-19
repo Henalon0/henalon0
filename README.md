@@ -6,9 +6,9 @@ Hello! I'm Mustafa, an AI Engineer and Machine Learning Specialist. I love turni
 
 ## 🤖 Expertise
 
-*   Machine Learning: Crafting solutions using advanced ML techniques for predictive modeling, deep learning, and more.
-*   Web Scraping and Automation: Unleashing the power of web scraping, crawling, and data extraction to transform unstructured content into valuable insights.
-*   Django and Flask: Building robust web applications and backends with a focus on seamless user experiences.
+*   **Machine Learning:** Crafting solutions using advanced ML techniques for predictive modeling, deep learning, and more.
+*   **Web Scraping and Automation:** Unleashing the power of web scraping, crawling, and data extraction to transform unstructured content into valuable insights.
+*   **Django and Flask:** Building robust web applications and backends with a focus on seamless user experiences.
 
 ## 🛠 Tech Stack
 <p align="left">
@@ -34,8 +34,8 @@ Hello! I'm Mustafa, an AI Engineer and Machine Learning Specialist. I love turni
 
 <p align="center">
   <a href="https://github.com/henalon0">
-    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="125em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="125em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
