@@ -2,15 +2,16 @@
 
 🚀 Hello, fellow tech enthusiasts! I'm Mustafa, an AI Engineer and Machine Learning Specialist with a knack for turning ideas into code. This GitHub repository serves as a digital portfolio showcasing my passion for cutting-edge technology and problem-solving. Dive into the projects below to explore my skills in:
 
-### Expertise:
+### Expertise
 
 - 🤖 **Machine Learning:** Crafting solutions using advanced ML techniques for predictive modeling, deep learning, and more.
 
 - 🌐 **Web Scraping and Automation:** Unleashing the power of web scraping, crawling, and data extraction to transform unstructured content into valuable insights.
 
-- 🌟 **Django and Python:** Building robust web applications and backends with a focus on seamless user experiences.
+- 🌟 **Django and Flask:** Building robust web applications and backends with a focus on seamless user experiences.
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -29,11 +30,7 @@
 <img align="left" alt="DigitalOcean" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
 <br>
 
-### About Me:
-
-Driven by a commitment to excellence, I've spearheaded projects optimizing forecasting, sales, and retail strategies using machine learning. My expertise in web scraping has earned a reputation for accuracy and reliability. With a collaborative approach, I've built Django-powered web solutions that streamline processes and enhance user engagement.
-
-### Connect with Me:
+### Connect with Me
 
 - 📱  [LinkedIn Profile](https://www.linkedin.com/in/mustafakel/)
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/mustafakel)
