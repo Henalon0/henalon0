@@ -34,8 +34,8 @@ Hello! I'm Mustafa, an AI Engineer and Machine Learning Specialist. I love turni
 
 <p align="center">
   <a href="https://github.com/henalon0">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
