@@ -34,8 +34,8 @@ Hi, I'm Mustafa, an AI Engineer and Machine Learning Specialist. I'm passionate 
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img width="400px" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="400px" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&card_width=400"/>
+  <img width="400px" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&langs_count=6&theme=algolia&hide_progress=true&card_width=400"/>
 </p>
 
 ## 🤝🏻 Connect with Me
